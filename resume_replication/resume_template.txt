@@ -1,0 +1,25 @@
+{major_label} Applicant
+{name}
+
+High School: {high_school}
+GPA: {gpa}
+Class Rank: {rank}
+SAT: {sat}
+
+Coursework: {coursework}
+
+Leadership: {leadership}
+
+Research Experience: {research}
+
+Internship: {internship}
+
+Projects: {projects}
+
+Community Service: {community_service}
+
+Awards: {awards}
+
+Skills: {skills}
+
+Activities: {activities}

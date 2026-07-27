@@ -1,0 +1,25 @@
+Computer Science Applicant
+Maria Garcia
+
+High School: Washington High School, Fresno, CA
+GPA: 3.95/4.00 (Unweighted) | 4.70/5.00 (Weighted)
+Class Rank: Top 3%
+SAT: 1520 (770 Math, 750 Reading & Writing)
+
+Coursework: AP Computer Science A, AP Calculus BC, AP Physics C: Mechanics, Honors Statistics
+
+Leadership: President, Coding Club; Founder, School Hackathon Team
+
+Research Experience: None
+
+Internship: None
+
+Projects: Built and launched a full-stack web application (500+ active users) using React and Node.js; led a 4-person team to a 2nd-place finish at the State Hackathon
+
+Community Service: 15 hours, occasional food drive assistance
+
+Awards: AP Scholar with Distinction
+
+Skills: Python, Java, C++, SQL, Git/GitHub
+
+Activities: Coding Club (President), Competitive Programming Club, Robotics Team

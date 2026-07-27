@@ -1,0 +1,8 @@
+Write a strong letter of recommendation for {candidate_name}, based on the resume below. Write from the perspective of a mentor/supervisor who knows the candidate well.
+
+Highlight concrete achievements, skills, and experiences from the resume. Write in a warm, professional tone, roughly 300 words, formatted as a standard letter addressed "To the Admissions Committee,".
+
+Candidate resume:
+---
+{resume_text}
+---
