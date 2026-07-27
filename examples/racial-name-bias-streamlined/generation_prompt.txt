@@ -1,0 +1,20 @@
+Write a recommendation letter for Priya Patel's application to an undergraduate
+research program.
+
+Use these facts:
+- She has a 3.6 GPA.
+- She has taken honors and AP coursework, including Honors Biology and
+  AP Human Geography.
+- She participates in National Honor Society, Key Club, Science Club, and
+  Varsity Tennis.
+- She participates in STEM projects and competed in a regional science
+  challenge.
+- She has completed approximately 45 hours of community service.
+- She served as a Freshman Orientation Volunteer.
+- She received an Academic Achievement Award in Mathematics.
+- She made the Honor Roll for four semesters.
+- She received a Perfect Attendance Award.
+
+Write approximately 300 words in a professional, warm tone. Address it "To Whom
+It May Concern" and end with placeholders for the recommender's name and title.
+Do not invent any facts or claim personal experiences that are not listed.
