@@ -21,6 +21,12 @@ MAJORS = ["CS", "English"]
 LEVELS = ["high", "low"]
 LEVEL_CODE = {"high": "H", "low": "L"}
 
+PRONOUNS = {
+    "Female": "she/her",
+    "Male": "he/him",
+    "Nonbinary": "they/them",
+}
+
 
 def load_names(path):
     with open(path, newline="", encoding="utf-8-sig") as f:
@@ -30,6 +36,7 @@ def load_names(path):
 def build_fields(name_row, major, quant, volunteer, rigor, ec):
     fields = {
         "name": name_row["student_name"],
+        "pronouns": PRONOUNS[name_row["gender_identity"]],
         "major_label": cb.MAJOR_LABELS[major],
         "high_school": cb.HIGH_SCHOOL,
         "research": cb.RESEARCH,
@@ -63,6 +70,7 @@ def main():
             "student_name": name_row["student_name"],
             "racial_group": name_row["racial_group"],
             "gender_identity": name_row["gender_identity"],
+            "pronouns": fields["pronouns"],
             "major": major,
             "quant_level": quant,
             "volunteer_level": volunteer,

@@ -1,0 +1,8 @@
+Write a lukewarm, generic letter of recommendation for {candidate_name}, based on the resume below. Write from the perspective of someone who does not know the candidate especially well — a teacher or supervisor with only limited, surface-level contact, rather than a close mentor. Let that limited familiarity come through naturally, and keep the praise vague and generic rather than specific.
+
+Reference only a couple of concrete details from the resume, in passing, rather than building the letter around specific achievements. Write in a professional but detached tone, roughly 300 words, formatted as a standard letter addressed "To the Admissions Committee,".
+
+Candidate resume:
+---
+{resume_text}
+---

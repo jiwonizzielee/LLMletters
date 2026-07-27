@@ -1,5 +1,5 @@
 {major_label} Applicant
-{name}
+{name} ({pronouns})
 
 High School: {high_school}
 GPA: {gpa}

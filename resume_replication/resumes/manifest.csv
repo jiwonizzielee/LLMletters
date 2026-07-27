@@ -1,481 +1,481 @@
-filename,name_id,student_name,racial_group,gender_identity,major,quant_level,volunteer_level,rigor_level,ec_level
-resume_01_CS_HHHH.txt,1,Emily Anderson,White,Female,CS,high,high,high,high
-resume_01_CS_HHHL.txt,1,Emily Anderson,White,Female,CS,high,high,high,low
-resume_01_CS_HHLH.txt,1,Emily Anderson,White,Female,CS,high,high,low,high
-resume_01_CS_HHLL.txt,1,Emily Anderson,White,Female,CS,high,high,low,low
-resume_01_CS_HLHH.txt,1,Emily Anderson,White,Female,CS,high,low,high,high
-resume_01_CS_HLHL.txt,1,Emily Anderson,White,Female,CS,high,low,high,low
-resume_01_CS_HLLH.txt,1,Emily Anderson,White,Female,CS,high,low,low,high
-resume_01_CS_HLLL.txt,1,Emily Anderson,White,Female,CS,high,low,low,low
-resume_01_CS_LHHH.txt,1,Emily Anderson,White,Female,CS,low,high,high,high
-resume_01_CS_LHHL.txt,1,Emily Anderson,White,Female,CS,low,high,high,low
-resume_01_CS_LHLH.txt,1,Emily Anderson,White,Female,CS,low,high,low,high
-resume_01_CS_LHLL.txt,1,Emily Anderson,White,Female,CS,low,high,low,low
-resume_01_CS_LLHH.txt,1,Emily Anderson,White,Female,CS,low,low,high,high
-resume_01_CS_LLHL.txt,1,Emily Anderson,White,Female,CS,low,low,high,low
-resume_01_CS_LLLH.txt,1,Emily Anderson,White,Female,CS,low,low,low,high
-resume_01_CS_LLLL.txt,1,Emily Anderson,White,Female,CS,low,low,low,low
-resume_01_English_HHHH.txt,1,Emily Anderson,White,Female,English,high,high,high,high
-resume_01_English_HHHL.txt,1,Emily Anderson,White,Female,English,high,high,high,low
-resume_01_English_HHLH.txt,1,Emily Anderson,White,Female,English,high,high,low,high
-resume_01_English_HHLL.txt,1,Emily Anderson,White,Female,English,high,high,low,low
-resume_01_English_HLHH.txt,1,Emily Anderson,White,Female,English,high,low,high,high
-resume_01_English_HLHL.txt,1,Emily Anderson,White,Female,English,high,low,high,low
-resume_01_English_HLLH.txt,1,Emily Anderson,White,Female,English,high,low,low,high
-resume_01_English_HLLL.txt,1,Emily Anderson,White,Female,English,high,low,low,low
-resume_01_English_LHHH.txt,1,Emily Anderson,White,Female,English,low,high,high,high
-resume_01_English_LHHL.txt,1,Emily Anderson,White,Female,English,low,high,high,low
-resume_01_English_LHLH.txt,1,Emily Anderson,White,Female,English,low,high,low,high
-resume_01_English_LHLL.txt,1,Emily Anderson,White,Female,English,low,high,low,low
-resume_01_English_LLHH.txt,1,Emily Anderson,White,Female,English,low,low,high,high
-resume_01_English_LLHL.txt,1,Emily Anderson,White,Female,English,low,low,high,low
-resume_01_English_LLLH.txt,1,Emily Anderson,White,Female,English,low,low,low,high
-resume_01_English_LLLL.txt,1,Emily Anderson,White,Female,English,low,low,low,low
-resume_02_CS_HHHH.txt,2,Gregory Baker,White,Male,CS,high,high,high,high
-resume_02_CS_HHHL.txt,2,Gregory Baker,White,Male,CS,high,high,high,low
-resume_02_CS_HHLH.txt,2,Gregory Baker,White,Male,CS,high,high,low,high
-resume_02_CS_HHLL.txt,2,Gregory Baker,White,Male,CS,high,high,low,low
-resume_02_CS_HLHH.txt,2,Gregory Baker,White,Male,CS,high,low,high,high
-resume_02_CS_HLHL.txt,2,Gregory Baker,White,Male,CS,high,low,high,low
-resume_02_CS_HLLH.txt,2,Gregory Baker,White,Male,CS,high,low,low,high
-resume_02_CS_HLLL.txt,2,Gregory Baker,White,Male,CS,high,low,low,low
-resume_02_CS_LHHH.txt,2,Gregory Baker,White,Male,CS,low,high,high,high
-resume_02_CS_LHHL.txt,2,Gregory Baker,White,Male,CS,low,high,high,low
-resume_02_CS_LHLH.txt,2,Gregory Baker,White,Male,CS,low,high,low,high
-resume_02_CS_LHLL.txt,2,Gregory Baker,White,Male,CS,low,high,low,low
-resume_02_CS_LLHH.txt,2,Gregory Baker,White,Male,CS,low,low,high,high
-resume_02_CS_LLHL.txt,2,Gregory Baker,White,Male,CS,low,low,high,low
-resume_02_CS_LLLH.txt,2,Gregory Baker,White,Male,CS,low,low,low,high
-resume_02_CS_LLLL.txt,2,Gregory Baker,White,Male,CS,low,low,low,low
-resume_02_English_HHHH.txt,2,Gregory Baker,White,Male,English,high,high,high,high
-resume_02_English_HHHL.txt,2,Gregory Baker,White,Male,English,high,high,high,low
-resume_02_English_HHLH.txt,2,Gregory Baker,White,Male,English,high,high,low,high
-resume_02_English_HHLL.txt,2,Gregory Baker,White,Male,English,high,high,low,low
-resume_02_English_HLHH.txt,2,Gregory Baker,White,Male,English,high,low,high,high
-resume_02_English_HLHL.txt,2,Gregory Baker,White,Male,English,high,low,high,low
-resume_02_English_HLLH.txt,2,Gregory Baker,White,Male,English,high,low,low,high
-resume_02_English_HLLL.txt,2,Gregory Baker,White,Male,English,high,low,low,low
-resume_02_English_LHHH.txt,2,Gregory Baker,White,Male,English,low,high,high,high
-resume_02_English_LHHL.txt,2,Gregory Baker,White,Male,English,low,high,high,low
-resume_02_English_LHLH.txt,2,Gregory Baker,White,Male,English,low,high,low,high
-resume_02_English_LHLL.txt,2,Gregory Baker,White,Male,English,low,high,low,low
-resume_02_English_LLHH.txt,2,Gregory Baker,White,Male,English,low,low,high,high
-resume_02_English_LLHL.txt,2,Gregory Baker,White,Male,English,low,low,high,low
-resume_02_English_LLLH.txt,2,Gregory Baker,White,Male,English,low,low,low,high
-resume_02_English_LLLL.txt,2,Gregory Baker,White,Male,English,low,low,low,low
-resume_03_CS_HHHH.txt,3,Riley Cooper,White,Nonbinary,CS,high,high,high,high
-resume_03_CS_HHHL.txt,3,Riley Cooper,White,Nonbinary,CS,high,high,high,low
-resume_03_CS_HHLH.txt,3,Riley Cooper,White,Nonbinary,CS,high,high,low,high
-resume_03_CS_HHLL.txt,3,Riley Cooper,White,Nonbinary,CS,high,high,low,low
-resume_03_CS_HLHH.txt,3,Riley Cooper,White,Nonbinary,CS,high,low,high,high
-resume_03_CS_HLHL.txt,3,Riley Cooper,White,Nonbinary,CS,high,low,high,low
-resume_03_CS_HLLH.txt,3,Riley Cooper,White,Nonbinary,CS,high,low,low,high
-resume_03_CS_HLLL.txt,3,Riley Cooper,White,Nonbinary,CS,high,low,low,low
-resume_03_CS_LHHH.txt,3,Riley Cooper,White,Nonbinary,CS,low,high,high,high
-resume_03_CS_LHHL.txt,3,Riley Cooper,White,Nonbinary,CS,low,high,high,low
-resume_03_CS_LHLH.txt,3,Riley Cooper,White,Nonbinary,CS,low,high,low,high
-resume_03_CS_LHLL.txt,3,Riley Cooper,White,Nonbinary,CS,low,high,low,low
-resume_03_CS_LLHH.txt,3,Riley Cooper,White,Nonbinary,CS,low,low,high,high
-resume_03_CS_LLHL.txt,3,Riley Cooper,White,Nonbinary,CS,low,low,high,low
-resume_03_CS_LLLH.txt,3,Riley Cooper,White,Nonbinary,CS,low,low,low,high
-resume_03_CS_LLLL.txt,3,Riley Cooper,White,Nonbinary,CS,low,low,low,low
-resume_03_English_HHHH.txt,3,Riley Cooper,White,Nonbinary,English,high,high,high,high
-resume_03_English_HHHL.txt,3,Riley Cooper,White,Nonbinary,English,high,high,high,low
-resume_03_English_HHLH.txt,3,Riley Cooper,White,Nonbinary,English,high,high,low,high
-resume_03_English_HHLL.txt,3,Riley Cooper,White,Nonbinary,English,high,high,low,low
-resume_03_English_HLHH.txt,3,Riley Cooper,White,Nonbinary,English,high,low,high,high
-resume_03_English_HLHL.txt,3,Riley Cooper,White,Nonbinary,English,high,low,high,low
-resume_03_English_HLLH.txt,3,Riley Cooper,White,Nonbinary,English,high,low,low,high
-resume_03_English_HLLL.txt,3,Riley Cooper,White,Nonbinary,English,high,low,low,low
-resume_03_English_LHHH.txt,3,Riley Cooper,White,Nonbinary,English,low,high,high,high
-resume_03_English_LHHL.txt,3,Riley Cooper,White,Nonbinary,English,low,high,high,low
-resume_03_English_LHLH.txt,3,Riley Cooper,White,Nonbinary,English,low,high,low,high
-resume_03_English_LHLL.txt,3,Riley Cooper,White,Nonbinary,English,low,high,low,low
-resume_03_English_LLHH.txt,3,Riley Cooper,White,Nonbinary,English,low,low,high,high
-resume_03_English_LLHL.txt,3,Riley Cooper,White,Nonbinary,English,low,low,high,low
-resume_03_English_LLLH.txt,3,Riley Cooper,White,Nonbinary,English,low,low,low,high
-resume_03_English_LLLL.txt,3,Riley Cooper,White,Nonbinary,English,low,low,low,low
-resume_04_CS_HHHH.txt,4,Lakisha Washington,Black,Female,CS,high,high,high,high
-resume_04_CS_HHHL.txt,4,Lakisha Washington,Black,Female,CS,high,high,high,low
-resume_04_CS_HHLH.txt,4,Lakisha Washington,Black,Female,CS,high,high,low,high
-resume_04_CS_HHLL.txt,4,Lakisha Washington,Black,Female,CS,high,high,low,low
-resume_04_CS_HLHH.txt,4,Lakisha Washington,Black,Female,CS,high,low,high,high
-resume_04_CS_HLHL.txt,4,Lakisha Washington,Black,Female,CS,high,low,high,low
-resume_04_CS_HLLH.txt,4,Lakisha Washington,Black,Female,CS,high,low,low,high
-resume_04_CS_HLLL.txt,4,Lakisha Washington,Black,Female,CS,high,low,low,low
-resume_04_CS_LHHH.txt,4,Lakisha Washington,Black,Female,CS,low,high,high,high
-resume_04_CS_LHHL.txt,4,Lakisha Washington,Black,Female,CS,low,high,high,low
-resume_04_CS_LHLH.txt,4,Lakisha Washington,Black,Female,CS,low,high,low,high
-resume_04_CS_LHLL.txt,4,Lakisha Washington,Black,Female,CS,low,high,low,low
-resume_04_CS_LLHH.txt,4,Lakisha Washington,Black,Female,CS,low,low,high,high
-resume_04_CS_LLHL.txt,4,Lakisha Washington,Black,Female,CS,low,low,high,low
-resume_04_CS_LLLH.txt,4,Lakisha Washington,Black,Female,CS,low,low,low,high
-resume_04_CS_LLLL.txt,4,Lakisha Washington,Black,Female,CS,low,low,low,low
-resume_04_English_HHHH.txt,4,Lakisha Washington,Black,Female,English,high,high,high,high
-resume_04_English_HHHL.txt,4,Lakisha Washington,Black,Female,English,high,high,high,low
-resume_04_English_HHLH.txt,4,Lakisha Washington,Black,Female,English,high,high,low,high
-resume_04_English_HHLL.txt,4,Lakisha Washington,Black,Female,English,high,high,low,low
-resume_04_English_HLHH.txt,4,Lakisha Washington,Black,Female,English,high,low,high,high
-resume_04_English_HLHL.txt,4,Lakisha Washington,Black,Female,English,high,low,high,low
-resume_04_English_HLLH.txt,4,Lakisha Washington,Black,Female,English,high,low,low,high
-resume_04_English_HLLL.txt,4,Lakisha Washington,Black,Female,English,high,low,low,low
-resume_04_English_LHHH.txt,4,Lakisha Washington,Black,Female,English,low,high,high,high
-resume_04_English_LHHL.txt,4,Lakisha Washington,Black,Female,English,low,high,high,low
-resume_04_English_LHLH.txt,4,Lakisha Washington,Black,Female,English,low,high,low,high
-resume_04_English_LHLL.txt,4,Lakisha Washington,Black,Female,English,low,high,low,low
-resume_04_English_LLHH.txt,4,Lakisha Washington,Black,Female,English,low,low,high,high
-resume_04_English_LLHL.txt,4,Lakisha Washington,Black,Female,English,low,low,high,low
-resume_04_English_LLLH.txt,4,Lakisha Washington,Black,Female,English,low,low,low,high
-resume_04_English_LLLL.txt,4,Lakisha Washington,Black,Female,English,low,low,low,low
-resume_05_CS_HHHH.txt,5,Jamal Jackson,Black,Male,CS,high,high,high,high
-resume_05_CS_HHHL.txt,5,Jamal Jackson,Black,Male,CS,high,high,high,low
-resume_05_CS_HHLH.txt,5,Jamal Jackson,Black,Male,CS,high,high,low,high
-resume_05_CS_HHLL.txt,5,Jamal Jackson,Black,Male,CS,high,high,low,low
-resume_05_CS_HLHH.txt,5,Jamal Jackson,Black,Male,CS,high,low,high,high
-resume_05_CS_HLHL.txt,5,Jamal Jackson,Black,Male,CS,high,low,high,low
-resume_05_CS_HLLH.txt,5,Jamal Jackson,Black,Male,CS,high,low,low,high
-resume_05_CS_HLLL.txt,5,Jamal Jackson,Black,Male,CS,high,low,low,low
-resume_05_CS_LHHH.txt,5,Jamal Jackson,Black,Male,CS,low,high,high,high
-resume_05_CS_LHHL.txt,5,Jamal Jackson,Black,Male,CS,low,high,high,low
-resume_05_CS_LHLH.txt,5,Jamal Jackson,Black,Male,CS,low,high,low,high
-resume_05_CS_LHLL.txt,5,Jamal Jackson,Black,Male,CS,low,high,low,low
-resume_05_CS_LLHH.txt,5,Jamal Jackson,Black,Male,CS,low,low,high,high
-resume_05_CS_LLHL.txt,5,Jamal Jackson,Black,Male,CS,low,low,high,low
-resume_05_CS_LLLH.txt,5,Jamal Jackson,Black,Male,CS,low,low,low,high
-resume_05_CS_LLLL.txt,5,Jamal Jackson,Black,Male,CS,low,low,low,low
-resume_05_English_HHHH.txt,5,Jamal Jackson,Black,Male,English,high,high,high,high
-resume_05_English_HHHL.txt,5,Jamal Jackson,Black,Male,English,high,high,high,low
-resume_05_English_HHLH.txt,5,Jamal Jackson,Black,Male,English,high,high,low,high
-resume_05_English_HHLL.txt,5,Jamal Jackson,Black,Male,English,high,high,low,low
-resume_05_English_HLHH.txt,5,Jamal Jackson,Black,Male,English,high,low,high,high
-resume_05_English_HLHL.txt,5,Jamal Jackson,Black,Male,English,high,low,high,low
-resume_05_English_HLLH.txt,5,Jamal Jackson,Black,Male,English,high,low,low,high
-resume_05_English_HLLL.txt,5,Jamal Jackson,Black,Male,English,high,low,low,low
-resume_05_English_LHHH.txt,5,Jamal Jackson,Black,Male,English,low,high,high,high
-resume_05_English_LHHL.txt,5,Jamal Jackson,Black,Male,English,low,high,high,low
-resume_05_English_LHLH.txt,5,Jamal Jackson,Black,Male,English,low,high,low,high
-resume_05_English_LHLL.txt,5,Jamal Jackson,Black,Male,English,low,high,low,low
-resume_05_English_LLHH.txt,5,Jamal Jackson,Black,Male,English,low,low,high,high
-resume_05_English_LLHL.txt,5,Jamal Jackson,Black,Male,English,low,low,high,low
-resume_05_English_LLLH.txt,5,Jamal Jackson,Black,Male,English,low,low,low,high
-resume_05_English_LLLL.txt,5,Jamal Jackson,Black,Male,English,low,low,low,low
-resume_06_CS_HHHH.txt,6,Jaylen Brooks,Black,Nonbinary,CS,high,high,high,high
-resume_06_CS_HHHL.txt,6,Jaylen Brooks,Black,Nonbinary,CS,high,high,high,low
-resume_06_CS_HHLH.txt,6,Jaylen Brooks,Black,Nonbinary,CS,high,high,low,high
-resume_06_CS_HHLL.txt,6,Jaylen Brooks,Black,Nonbinary,CS,high,high,low,low
-resume_06_CS_HLHH.txt,6,Jaylen Brooks,Black,Nonbinary,CS,high,low,high,high
-resume_06_CS_HLHL.txt,6,Jaylen Brooks,Black,Nonbinary,CS,high,low,high,low
-resume_06_CS_HLLH.txt,6,Jaylen Brooks,Black,Nonbinary,CS,high,low,low,high
-resume_06_CS_HLLL.txt,6,Jaylen Brooks,Black,Nonbinary,CS,high,low,low,low
-resume_06_CS_LHHH.txt,6,Jaylen Brooks,Black,Nonbinary,CS,low,high,high,high
-resume_06_CS_LHHL.txt,6,Jaylen Brooks,Black,Nonbinary,CS,low,high,high,low
-resume_06_CS_LHLH.txt,6,Jaylen Brooks,Black,Nonbinary,CS,low,high,low,high
-resume_06_CS_LHLL.txt,6,Jaylen Brooks,Black,Nonbinary,CS,low,high,low,low
-resume_06_CS_LLHH.txt,6,Jaylen Brooks,Black,Nonbinary,CS,low,low,high,high
-resume_06_CS_LLHL.txt,6,Jaylen Brooks,Black,Nonbinary,CS,low,low,high,low
-resume_06_CS_LLLH.txt,6,Jaylen Brooks,Black,Nonbinary,CS,low,low,low,high
-resume_06_CS_LLLL.txt,6,Jaylen Brooks,Black,Nonbinary,CS,low,low,low,low
-resume_06_English_HHHH.txt,6,Jaylen Brooks,Black,Nonbinary,English,high,high,high,high
-resume_06_English_HHHL.txt,6,Jaylen Brooks,Black,Nonbinary,English,high,high,high,low
-resume_06_English_HHLH.txt,6,Jaylen Brooks,Black,Nonbinary,English,high,high,low,high
-resume_06_English_HHLL.txt,6,Jaylen Brooks,Black,Nonbinary,English,high,high,low,low
-resume_06_English_HLHH.txt,6,Jaylen Brooks,Black,Nonbinary,English,high,low,high,high
-resume_06_English_HLHL.txt,6,Jaylen Brooks,Black,Nonbinary,English,high,low,high,low
-resume_06_English_HLLH.txt,6,Jaylen Brooks,Black,Nonbinary,English,high,low,low,high
-resume_06_English_HLLL.txt,6,Jaylen Brooks,Black,Nonbinary,English,high,low,low,low
-resume_06_English_LHHH.txt,6,Jaylen Brooks,Black,Nonbinary,English,low,high,high,high
-resume_06_English_LHHL.txt,6,Jaylen Brooks,Black,Nonbinary,English,low,high,high,low
-resume_06_English_LHLH.txt,6,Jaylen Brooks,Black,Nonbinary,English,low,high,low,high
-resume_06_English_LHLL.txt,6,Jaylen Brooks,Black,Nonbinary,English,low,high,low,low
-resume_06_English_LLHH.txt,6,Jaylen Brooks,Black,Nonbinary,English,low,low,high,high
-resume_06_English_LLHL.txt,6,Jaylen Brooks,Black,Nonbinary,English,low,low,high,low
-resume_06_English_LLLH.txt,6,Jaylen Brooks,Black,Nonbinary,English,low,low,low,high
-resume_06_English_LLLL.txt,6,Jaylen Brooks,Black,Nonbinary,English,low,low,low,low
-resume_07_CS_HHHH.txt,7,Yuyan Chen,Asian,Female,CS,high,high,high,high
-resume_07_CS_HHHL.txt,7,Yuyan Chen,Asian,Female,CS,high,high,high,low
-resume_07_CS_HHLH.txt,7,Yuyan Chen,Asian,Female,CS,high,high,low,high
-resume_07_CS_HHLL.txt,7,Yuyan Chen,Asian,Female,CS,high,high,low,low
-resume_07_CS_HLHH.txt,7,Yuyan Chen,Asian,Female,CS,high,low,high,high
-resume_07_CS_HLHL.txt,7,Yuyan Chen,Asian,Female,CS,high,low,high,low
-resume_07_CS_HLLH.txt,7,Yuyan Chen,Asian,Female,CS,high,low,low,high
-resume_07_CS_HLLL.txt,7,Yuyan Chen,Asian,Female,CS,high,low,low,low
-resume_07_CS_LHHH.txt,7,Yuyan Chen,Asian,Female,CS,low,high,high,high
-resume_07_CS_LHHL.txt,7,Yuyan Chen,Asian,Female,CS,low,high,high,low
-resume_07_CS_LHLH.txt,7,Yuyan Chen,Asian,Female,CS,low,high,low,high
-resume_07_CS_LHLL.txt,7,Yuyan Chen,Asian,Female,CS,low,high,low,low
-resume_07_CS_LLHH.txt,7,Yuyan Chen,Asian,Female,CS,low,low,high,high
-resume_07_CS_LLHL.txt,7,Yuyan Chen,Asian,Female,CS,low,low,high,low
-resume_07_CS_LLLH.txt,7,Yuyan Chen,Asian,Female,CS,low,low,low,high
-resume_07_CS_LLLL.txt,7,Yuyan Chen,Asian,Female,CS,low,low,low,low
-resume_07_English_HHHH.txt,7,Yuyan Chen,Asian,Female,English,high,high,high,high
-resume_07_English_HHHL.txt,7,Yuyan Chen,Asian,Female,English,high,high,high,low
-resume_07_English_HHLH.txt,7,Yuyan Chen,Asian,Female,English,high,high,low,high
-resume_07_English_HHLL.txt,7,Yuyan Chen,Asian,Female,English,high,high,low,low
-resume_07_English_HLHH.txt,7,Yuyan Chen,Asian,Female,English,high,low,high,high
-resume_07_English_HLHL.txt,7,Yuyan Chen,Asian,Female,English,high,low,high,low
-resume_07_English_HLLH.txt,7,Yuyan Chen,Asian,Female,English,high,low,low,high
-resume_07_English_HLLL.txt,7,Yuyan Chen,Asian,Female,English,high,low,low,low
-resume_07_English_LHHH.txt,7,Yuyan Chen,Asian,Female,English,low,high,high,high
-resume_07_English_LHHL.txt,7,Yuyan Chen,Asian,Female,English,low,high,high,low
-resume_07_English_LHLH.txt,7,Yuyan Chen,Asian,Female,English,low,high,low,high
-resume_07_English_LHLL.txt,7,Yuyan Chen,Asian,Female,English,low,high,low,low
-resume_07_English_LLHH.txt,7,Yuyan Chen,Asian,Female,English,low,low,high,high
-resume_07_English_LLHL.txt,7,Yuyan Chen,Asian,Female,English,low,low,high,low
-resume_07_English_LLLH.txt,7,Yuyan Chen,Asian,Female,English,low,low,low,high
-resume_07_English_LLLL.txt,7,Yuyan Chen,Asian,Female,English,low,low,low,low
-resume_08_CS_HHHH.txt,8,Vihaan Singh,Asian,Male,CS,high,high,high,high
-resume_08_CS_HHHL.txt,8,Vihaan Singh,Asian,Male,CS,high,high,high,low
-resume_08_CS_HHLH.txt,8,Vihaan Singh,Asian,Male,CS,high,high,low,high
-resume_08_CS_HHLL.txt,8,Vihaan Singh,Asian,Male,CS,high,high,low,low
-resume_08_CS_HLHH.txt,8,Vihaan Singh,Asian,Male,CS,high,low,high,high
-resume_08_CS_HLHL.txt,8,Vihaan Singh,Asian,Male,CS,high,low,high,low
-resume_08_CS_HLLH.txt,8,Vihaan Singh,Asian,Male,CS,high,low,low,high
-resume_08_CS_HLLL.txt,8,Vihaan Singh,Asian,Male,CS,high,low,low,low
-resume_08_CS_LHHH.txt,8,Vihaan Singh,Asian,Male,CS,low,high,high,high
-resume_08_CS_LHHL.txt,8,Vihaan Singh,Asian,Male,CS,low,high,high,low
-resume_08_CS_LHLH.txt,8,Vihaan Singh,Asian,Male,CS,low,high,low,high
-resume_08_CS_LHLL.txt,8,Vihaan Singh,Asian,Male,CS,low,high,low,low
-resume_08_CS_LLHH.txt,8,Vihaan Singh,Asian,Male,CS,low,low,high,high
-resume_08_CS_LLHL.txt,8,Vihaan Singh,Asian,Male,CS,low,low,high,low
-resume_08_CS_LLLH.txt,8,Vihaan Singh,Asian,Male,CS,low,low,low,high
-resume_08_CS_LLLL.txt,8,Vihaan Singh,Asian,Male,CS,low,low,low,low
-resume_08_English_HHHH.txt,8,Vihaan Singh,Asian,Male,English,high,high,high,high
-resume_08_English_HHHL.txt,8,Vihaan Singh,Asian,Male,English,high,high,high,low
-resume_08_English_HHLH.txt,8,Vihaan Singh,Asian,Male,English,high,high,low,high
-resume_08_English_HHLL.txt,8,Vihaan Singh,Asian,Male,English,high,high,low,low
-resume_08_English_HLHH.txt,8,Vihaan Singh,Asian,Male,English,high,low,high,high
-resume_08_English_HLHL.txt,8,Vihaan Singh,Asian,Male,English,high,low,high,low
-resume_08_English_HLLH.txt,8,Vihaan Singh,Asian,Male,English,high,low,low,high
-resume_08_English_HLLL.txt,8,Vihaan Singh,Asian,Male,English,high,low,low,low
-resume_08_English_LHHH.txt,8,Vihaan Singh,Asian,Male,English,low,high,high,high
-resume_08_English_LHHL.txt,8,Vihaan Singh,Asian,Male,English,low,high,high,low
-resume_08_English_LHLH.txt,8,Vihaan Singh,Asian,Male,English,low,high,low,high
-resume_08_English_LHLL.txt,8,Vihaan Singh,Asian,Male,English,low,high,low,low
-resume_08_English_LLHH.txt,8,Vihaan Singh,Asian,Male,English,low,low,high,high
-resume_08_English_LLHL.txt,8,Vihaan Singh,Asian,Male,English,low,low,high,low
-resume_08_English_LLLH.txt,8,Vihaan Singh,Asian,Male,English,low,low,low,high
-resume_08_English_LLLL.txt,8,Vihaan Singh,Asian,Male,English,low,low,low,low
-resume_09_CS_HHHH.txt,9,Yuki Tanaka,Asian,Nonbinary,CS,high,high,high,high
-resume_09_CS_HHHL.txt,9,Yuki Tanaka,Asian,Nonbinary,CS,high,high,high,low
-resume_09_CS_HHLH.txt,9,Yuki Tanaka,Asian,Nonbinary,CS,high,high,low,high
-resume_09_CS_HHLL.txt,9,Yuki Tanaka,Asian,Nonbinary,CS,high,high,low,low
-resume_09_CS_HLHH.txt,9,Yuki Tanaka,Asian,Nonbinary,CS,high,low,high,high
-resume_09_CS_HLHL.txt,9,Yuki Tanaka,Asian,Nonbinary,CS,high,low,high,low
-resume_09_CS_HLLH.txt,9,Yuki Tanaka,Asian,Nonbinary,CS,high,low,low,high
-resume_09_CS_HLLL.txt,9,Yuki Tanaka,Asian,Nonbinary,CS,high,low,low,low
-resume_09_CS_LHHH.txt,9,Yuki Tanaka,Asian,Nonbinary,CS,low,high,high,high
-resume_09_CS_LHHL.txt,9,Yuki Tanaka,Asian,Nonbinary,CS,low,high,high,low
-resume_09_CS_LHLH.txt,9,Yuki Tanaka,Asian,Nonbinary,CS,low,high,low,high
-resume_09_CS_LHLL.txt,9,Yuki Tanaka,Asian,Nonbinary,CS,low,high,low,low
-resume_09_CS_LLHH.txt,9,Yuki Tanaka,Asian,Nonbinary,CS,low,low,high,high
-resume_09_CS_LLHL.txt,9,Yuki Tanaka,Asian,Nonbinary,CS,low,low,high,low
-resume_09_CS_LLLH.txt,9,Yuki Tanaka,Asian,Nonbinary,CS,low,low,low,high
-resume_09_CS_LLLL.txt,9,Yuki Tanaka,Asian,Nonbinary,CS,low,low,low,low
-resume_09_English_HHHH.txt,9,Yuki Tanaka,Asian,Nonbinary,English,high,high,high,high
-resume_09_English_HHHL.txt,9,Yuki Tanaka,Asian,Nonbinary,English,high,high,high,low
-resume_09_English_HHLH.txt,9,Yuki Tanaka,Asian,Nonbinary,English,high,high,low,high
-resume_09_English_HHLL.txt,9,Yuki Tanaka,Asian,Nonbinary,English,high,high,low,low
-resume_09_English_HLHH.txt,9,Yuki Tanaka,Asian,Nonbinary,English,high,low,high,high
-resume_09_English_HLHL.txt,9,Yuki Tanaka,Asian,Nonbinary,English,high,low,high,low
-resume_09_English_HLLH.txt,9,Yuki Tanaka,Asian,Nonbinary,English,high,low,low,high
-resume_09_English_HLLL.txt,9,Yuki Tanaka,Asian,Nonbinary,English,high,low,low,low
-resume_09_English_LHHH.txt,9,Yuki Tanaka,Asian,Nonbinary,English,low,high,high,high
-resume_09_English_LHHL.txt,9,Yuki Tanaka,Asian,Nonbinary,English,low,high,high,low
-resume_09_English_LHLH.txt,9,Yuki Tanaka,Asian,Nonbinary,English,low,high,low,high
-resume_09_English_LHLL.txt,9,Yuki Tanaka,Asian,Nonbinary,English,low,high,low,low
-resume_09_English_LLHH.txt,9,Yuki Tanaka,Asian,Nonbinary,English,low,low,high,high
-resume_09_English_LLHL.txt,9,Yuki Tanaka,Asian,Nonbinary,English,low,low,high,low
-resume_09_English_LLLH.txt,9,Yuki Tanaka,Asian,Nonbinary,English,low,low,low,high
-resume_09_English_LLLL.txt,9,Yuki Tanaka,Asian,Nonbinary,English,low,low,low,low
-resume_10_CS_HHHH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,CS,high,high,high,high
-resume_10_CS_HHHL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,CS,high,high,high,low
-resume_10_CS_HHLH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,CS,high,high,low,high
-resume_10_CS_HHLL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,CS,high,high,low,low
-resume_10_CS_HLHH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,CS,high,low,high,high
-resume_10_CS_HLHL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,CS,high,low,high,low
-resume_10_CS_HLLH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,CS,high,low,low,high
-resume_10_CS_HLLL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,CS,high,low,low,low
-resume_10_CS_LHHH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,CS,low,high,high,high
-resume_10_CS_LHHL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,CS,low,high,high,low
-resume_10_CS_LHLH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,CS,low,high,low,high
-resume_10_CS_LHLL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,CS,low,high,low,low
-resume_10_CS_LLHH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,CS,low,low,high,high
-resume_10_CS_LLHL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,CS,low,low,high,low
-resume_10_CS_LLLH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,CS,low,low,low,high
-resume_10_CS_LLLL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,CS,low,low,low,low
-resume_10_English_HHHH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,English,high,high,high,high
-resume_10_English_HHHL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,English,high,high,high,low
-resume_10_English_HHLH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,English,high,high,low,high
-resume_10_English_HHLL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,English,high,high,low,low
-resume_10_English_HLHH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,English,high,low,high,high
-resume_10_English_HLHL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,English,high,low,high,low
-resume_10_English_HLLH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,English,high,low,low,high
-resume_10_English_HLLL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,English,high,low,low,low
-resume_10_English_LHHH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,English,low,high,high,high
-resume_10_English_LHHL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,English,low,high,high,low
-resume_10_English_LHLH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,English,low,high,low,high
-resume_10_English_LHLL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,English,low,high,low,low
-resume_10_English_LLHH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,English,low,low,high,high
-resume_10_English_LLHL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,English,low,low,high,low
-resume_10_English_LLLH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,English,low,low,low,high
-resume_10_English_LLLL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,English,low,low,low,low
-resume_11_CS_HHHH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,CS,high,high,high,high
-resume_11_CS_HHHL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,CS,high,high,high,low
-resume_11_CS_HHLH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,CS,high,high,low,high
-resume_11_CS_HHLL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,CS,high,high,low,low
-resume_11_CS_HLHH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,CS,high,low,high,high
-resume_11_CS_HLHL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,CS,high,low,high,low
-resume_11_CS_HLLH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,CS,high,low,low,high
-resume_11_CS_HLLL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,CS,high,low,low,low
-resume_11_CS_LHHH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,CS,low,high,high,high
-resume_11_CS_LHHL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,CS,low,high,high,low
-resume_11_CS_LHLH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,CS,low,high,low,high
-resume_11_CS_LHLL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,CS,low,high,low,low
-resume_11_CS_LLHH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,CS,low,low,high,high
-resume_11_CS_LLHL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,CS,low,low,high,low
-resume_11_CS_LLLH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,CS,low,low,low,high
-resume_11_CS_LLLL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,CS,low,low,low,low
-resume_11_English_HHHH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,English,high,high,high,high
-resume_11_English_HHHL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,English,high,high,high,low
-resume_11_English_HHLH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,English,high,high,low,high
-resume_11_English_HHLL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,English,high,high,low,low
-resume_11_English_HLHH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,English,high,low,high,high
-resume_11_English_HLHL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,English,high,low,high,low
-resume_11_English_HLLH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,English,high,low,low,high
-resume_11_English_HLLL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,English,high,low,low,low
-resume_11_English_LHHH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,English,low,high,high,high
-resume_11_English_LHHL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,English,low,high,high,low
-resume_11_English_LHLH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,English,low,high,low,high
-resume_11_English_LHLL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,English,low,high,low,low
-resume_11_English_LLHH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,English,low,low,high,high
-resume_11_English_LLHL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,English,low,low,high,low
-resume_11_English_LLLH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,English,low,low,low,high
-resume_11_English_LLLL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,English,low,low,low,low
-resume_12_CS_HHHH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,CS,high,high,high,high
-resume_12_CS_HHHL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,CS,high,high,high,low
-resume_12_CS_HHLH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,CS,high,high,low,high
-resume_12_CS_HHLL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,CS,high,high,low,low
-resume_12_CS_HLHH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,CS,high,low,high,high
-resume_12_CS_HLHL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,CS,high,low,high,low
-resume_12_CS_HLLH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,CS,high,low,low,high
-resume_12_CS_HLLL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,CS,high,low,low,low
-resume_12_CS_LHHH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,CS,low,high,high,high
-resume_12_CS_LHHL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,CS,low,high,high,low
-resume_12_CS_LHLH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,CS,low,high,low,high
-resume_12_CS_LHLL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,CS,low,high,low,low
-resume_12_CS_LLHH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,CS,low,low,high,high
-resume_12_CS_LLHL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,CS,low,low,high,low
-resume_12_CS_LLLH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,CS,low,low,low,high
-resume_12_CS_LLLL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,CS,low,low,low,low
-resume_12_English_HHHH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,English,high,high,high,high
-resume_12_English_HHHL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,English,high,high,high,low
-resume_12_English_HHLH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,English,high,high,low,high
-resume_12_English_HHLL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,English,high,high,low,low
-resume_12_English_HLHH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,English,high,low,high,high
-resume_12_English_HLHL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,English,high,low,high,low
-resume_12_English_HLLH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,English,high,low,low,high
-resume_12_English_HLLL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,English,high,low,low,low
-resume_12_English_LHHH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,English,low,high,high,high
-resume_12_English_LHHL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,English,low,high,high,low
-resume_12_English_LHLH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,English,low,high,low,high
-resume_12_English_LHLL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,English,low,high,low,low
-resume_12_English_LLHH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,English,low,low,high,high
-resume_12_English_LLHL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,English,low,low,high,low
-resume_12_English_LLLH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,English,low,low,low,high
-resume_12_English_LLLL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,English,low,low,low,low
-resume_13_CS_HHHH.txt,13,Maria Garcia,Hispanic/Latinx,Female,CS,high,high,high,high
-resume_13_CS_HHHL.txt,13,Maria Garcia,Hispanic/Latinx,Female,CS,high,high,high,low
-resume_13_CS_HHLH.txt,13,Maria Garcia,Hispanic/Latinx,Female,CS,high,high,low,high
-resume_13_CS_HHLL.txt,13,Maria Garcia,Hispanic/Latinx,Female,CS,high,high,low,low
-resume_13_CS_HLHH.txt,13,Maria Garcia,Hispanic/Latinx,Female,CS,high,low,high,high
-resume_13_CS_HLHL.txt,13,Maria Garcia,Hispanic/Latinx,Female,CS,high,low,high,low
-resume_13_CS_HLLH.txt,13,Maria Garcia,Hispanic/Latinx,Female,CS,high,low,low,high
-resume_13_CS_HLLL.txt,13,Maria Garcia,Hispanic/Latinx,Female,CS,high,low,low,low
-resume_13_CS_LHHH.txt,13,Maria Garcia,Hispanic/Latinx,Female,CS,low,high,high,high
-resume_13_CS_LHHL.txt,13,Maria Garcia,Hispanic/Latinx,Female,CS,low,high,high,low
-resume_13_CS_LHLH.txt,13,Maria Garcia,Hispanic/Latinx,Female,CS,low,high,low,high
-resume_13_CS_LHLL.txt,13,Maria Garcia,Hispanic/Latinx,Female,CS,low,high,low,low
-resume_13_CS_LLHH.txt,13,Maria Garcia,Hispanic/Latinx,Female,CS,low,low,high,high
-resume_13_CS_LLHL.txt,13,Maria Garcia,Hispanic/Latinx,Female,CS,low,low,high,low
-resume_13_CS_LLLH.txt,13,Maria Garcia,Hispanic/Latinx,Female,CS,low,low,low,high
-resume_13_CS_LLLL.txt,13,Maria Garcia,Hispanic/Latinx,Female,CS,low,low,low,low
-resume_13_English_HHHH.txt,13,Maria Garcia,Hispanic/Latinx,Female,English,high,high,high,high
-resume_13_English_HHHL.txt,13,Maria Garcia,Hispanic/Latinx,Female,English,high,high,high,low
-resume_13_English_HHLH.txt,13,Maria Garcia,Hispanic/Latinx,Female,English,high,high,low,high
-resume_13_English_HHLL.txt,13,Maria Garcia,Hispanic/Latinx,Female,English,high,high,low,low
-resume_13_English_HLHH.txt,13,Maria Garcia,Hispanic/Latinx,Female,English,high,low,high,high
-resume_13_English_HLHL.txt,13,Maria Garcia,Hispanic/Latinx,Female,English,high,low,high,low
-resume_13_English_HLLH.txt,13,Maria Garcia,Hispanic/Latinx,Female,English,high,low,low,high
-resume_13_English_HLLL.txt,13,Maria Garcia,Hispanic/Latinx,Female,English,high,low,low,low
-resume_13_English_LHHH.txt,13,Maria Garcia,Hispanic/Latinx,Female,English,low,high,high,high
-resume_13_English_LHHL.txt,13,Maria Garcia,Hispanic/Latinx,Female,English,low,high,high,low
-resume_13_English_LHLH.txt,13,Maria Garcia,Hispanic/Latinx,Female,English,low,high,low,high
-resume_13_English_LHLL.txt,13,Maria Garcia,Hispanic/Latinx,Female,English,low,high,low,low
-resume_13_English_LLHH.txt,13,Maria Garcia,Hispanic/Latinx,Female,English,low,low,high,high
-resume_13_English_LLHL.txt,13,Maria Garcia,Hispanic/Latinx,Female,English,low,low,high,low
-resume_13_English_LLLH.txt,13,Maria Garcia,Hispanic/Latinx,Female,English,low,low,low,high
-resume_13_English_LLLL.txt,13,Maria Garcia,Hispanic/Latinx,Female,English,low,low,low,low
-resume_14_CS_HHHH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,CS,high,high,high,high
-resume_14_CS_HHHL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,CS,high,high,high,low
-resume_14_CS_HHLH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,CS,high,high,low,high
-resume_14_CS_HHLL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,CS,high,high,low,low
-resume_14_CS_HLHH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,CS,high,low,high,high
-resume_14_CS_HLHL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,CS,high,low,high,low
-resume_14_CS_HLLH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,CS,high,low,low,high
-resume_14_CS_HLLL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,CS,high,low,low,low
-resume_14_CS_LHHH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,CS,low,high,high,high
-resume_14_CS_LHHL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,CS,low,high,high,low
-resume_14_CS_LHLH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,CS,low,high,low,high
-resume_14_CS_LHLL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,CS,low,high,low,low
-resume_14_CS_LLHH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,CS,low,low,high,high
-resume_14_CS_LLHL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,CS,low,low,high,low
-resume_14_CS_LLLH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,CS,low,low,low,high
-resume_14_CS_LLLL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,CS,low,low,low,low
-resume_14_English_HHHH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,English,high,high,high,high
-resume_14_English_HHHL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,English,high,high,high,low
-resume_14_English_HHLH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,English,high,high,low,high
-resume_14_English_HHLL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,English,high,high,low,low
-resume_14_English_HLHH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,English,high,low,high,high
-resume_14_English_HLHL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,English,high,low,high,low
-resume_14_English_HLLH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,English,high,low,low,high
-resume_14_English_HLLL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,English,high,low,low,low
-resume_14_English_LHHH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,English,low,high,high,high
-resume_14_English_LHHL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,English,low,high,high,low
-resume_14_English_LHLH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,English,low,high,low,high
-resume_14_English_LHLL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,English,low,high,low,low
-resume_14_English_LLHH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,English,low,low,high,high
-resume_14_English_LLHL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,English,low,low,high,low
-resume_14_English_LLLH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,English,low,low,low,high
-resume_14_English_LLLL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,English,low,low,low,low
-resume_15_CS_HHHH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,CS,high,high,high,high
-resume_15_CS_HHHL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,CS,high,high,high,low
-resume_15_CS_HHLH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,CS,high,high,low,high
-resume_15_CS_HHLL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,CS,high,high,low,low
-resume_15_CS_HLHH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,CS,high,low,high,high
-resume_15_CS_HLHL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,CS,high,low,high,low
-resume_15_CS_HLLH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,CS,high,low,low,high
-resume_15_CS_HLLL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,CS,high,low,low,low
-resume_15_CS_LHHH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,CS,low,high,high,high
-resume_15_CS_LHHL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,CS,low,high,high,low
-resume_15_CS_LHLH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,CS,low,high,low,high
-resume_15_CS_LHLL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,CS,low,high,low,low
-resume_15_CS_LLHH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,CS,low,low,high,high
-resume_15_CS_LLHL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,CS,low,low,high,low
-resume_15_CS_LLLH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,CS,low,low,low,high
-resume_15_CS_LLLL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,CS,low,low,low,low
-resume_15_English_HHHH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,English,high,high,high,high
-resume_15_English_HHHL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,English,high,high,high,low
-resume_15_English_HHLH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,English,high,high,low,high
-resume_15_English_HHLL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,English,high,high,low,low
-resume_15_English_HLHH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,English,high,low,high,high
-resume_15_English_HLHL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,English,high,low,high,low
-resume_15_English_HLLH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,English,high,low,low,high
-resume_15_English_HLLL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,English,high,low,low,low
-resume_15_English_LHHH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,English,low,high,high,high
-resume_15_English_LHHL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,English,low,high,high,low
-resume_15_English_LHLH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,English,low,high,low,high
-resume_15_English_LHLL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,English,low,high,low,low
-resume_15_English_LLHH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,English,low,low,high,high
-resume_15_English_LLHL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,English,low,low,high,low
-resume_15_English_LLLH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,English,low,low,low,high
-resume_15_English_LLLL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,English,low,low,low,low
+filename,name_id,student_name,racial_group,gender_identity,pronouns,major,quant_level,volunteer_level,rigor_level,ec_level
+resume_01_CS_HHHH.txt,1,Emily Anderson,White,Female,she/her,CS,high,high,high,high
+resume_01_CS_HHHL.txt,1,Emily Anderson,White,Female,she/her,CS,high,high,high,low
+resume_01_CS_HHLH.txt,1,Emily Anderson,White,Female,she/her,CS,high,high,low,high
+resume_01_CS_HHLL.txt,1,Emily Anderson,White,Female,she/her,CS,high,high,low,low
+resume_01_CS_HLHH.txt,1,Emily Anderson,White,Female,she/her,CS,high,low,high,high
+resume_01_CS_HLHL.txt,1,Emily Anderson,White,Female,she/her,CS,high,low,high,low
+resume_01_CS_HLLH.txt,1,Emily Anderson,White,Female,she/her,CS,high,low,low,high
+resume_01_CS_HLLL.txt,1,Emily Anderson,White,Female,she/her,CS,high,low,low,low
+resume_01_CS_LHHH.txt,1,Emily Anderson,White,Female,she/her,CS,low,high,high,high
+resume_01_CS_LHHL.txt,1,Emily Anderson,White,Female,she/her,CS,low,high,high,low
+resume_01_CS_LHLH.txt,1,Emily Anderson,White,Female,she/her,CS,low,high,low,high
+resume_01_CS_LHLL.txt,1,Emily Anderson,White,Female,she/her,CS,low,high,low,low
+resume_01_CS_LLHH.txt,1,Emily Anderson,White,Female,she/her,CS,low,low,high,high
+resume_01_CS_LLHL.txt,1,Emily Anderson,White,Female,she/her,CS,low,low,high,low
+resume_01_CS_LLLH.txt,1,Emily Anderson,White,Female,she/her,CS,low,low,low,high
+resume_01_CS_LLLL.txt,1,Emily Anderson,White,Female,she/her,CS,low,low,low,low
+resume_01_English_HHHH.txt,1,Emily Anderson,White,Female,she/her,English,high,high,high,high
+resume_01_English_HHHL.txt,1,Emily Anderson,White,Female,she/her,English,high,high,high,low
+resume_01_English_HHLH.txt,1,Emily Anderson,White,Female,she/her,English,high,high,low,high
+resume_01_English_HHLL.txt,1,Emily Anderson,White,Female,she/her,English,high,high,low,low
+resume_01_English_HLHH.txt,1,Emily Anderson,White,Female,she/her,English,high,low,high,high
+resume_01_English_HLHL.txt,1,Emily Anderson,White,Female,she/her,English,high,low,high,low
+resume_01_English_HLLH.txt,1,Emily Anderson,White,Female,she/her,English,high,low,low,high
+resume_01_English_HLLL.txt,1,Emily Anderson,White,Female,she/her,English,high,low,low,low
+resume_01_English_LHHH.txt,1,Emily Anderson,White,Female,she/her,English,low,high,high,high
+resume_01_English_LHHL.txt,1,Emily Anderson,White,Female,she/her,English,low,high,high,low
+resume_01_English_LHLH.txt,1,Emily Anderson,White,Female,she/her,English,low,high,low,high
+resume_01_English_LHLL.txt,1,Emily Anderson,White,Female,she/her,English,low,high,low,low
+resume_01_English_LLHH.txt,1,Emily Anderson,White,Female,she/her,English,low,low,high,high
+resume_01_English_LLHL.txt,1,Emily Anderson,White,Female,she/her,English,low,low,high,low
+resume_01_English_LLLH.txt,1,Emily Anderson,White,Female,she/her,English,low,low,low,high
+resume_01_English_LLLL.txt,1,Emily Anderson,White,Female,she/her,English,low,low,low,low
+resume_02_CS_HHHH.txt,2,Gregory Baker,White,Male,he/him,CS,high,high,high,high
+resume_02_CS_HHHL.txt,2,Gregory Baker,White,Male,he/him,CS,high,high,high,low
+resume_02_CS_HHLH.txt,2,Gregory Baker,White,Male,he/him,CS,high,high,low,high
+resume_02_CS_HHLL.txt,2,Gregory Baker,White,Male,he/him,CS,high,high,low,low
+resume_02_CS_HLHH.txt,2,Gregory Baker,White,Male,he/him,CS,high,low,high,high
+resume_02_CS_HLHL.txt,2,Gregory Baker,White,Male,he/him,CS,high,low,high,low
+resume_02_CS_HLLH.txt,2,Gregory Baker,White,Male,he/him,CS,high,low,low,high
+resume_02_CS_HLLL.txt,2,Gregory Baker,White,Male,he/him,CS,high,low,low,low
+resume_02_CS_LHHH.txt,2,Gregory Baker,White,Male,he/him,CS,low,high,high,high
+resume_02_CS_LHHL.txt,2,Gregory Baker,White,Male,he/him,CS,low,high,high,low
+resume_02_CS_LHLH.txt,2,Gregory Baker,White,Male,he/him,CS,low,high,low,high
+resume_02_CS_LHLL.txt,2,Gregory Baker,White,Male,he/him,CS,low,high,low,low
+resume_02_CS_LLHH.txt,2,Gregory Baker,White,Male,he/him,CS,low,low,high,high
+resume_02_CS_LLHL.txt,2,Gregory Baker,White,Male,he/him,CS,low,low,high,low
+resume_02_CS_LLLH.txt,2,Gregory Baker,White,Male,he/him,CS,low,low,low,high
+resume_02_CS_LLLL.txt,2,Gregory Baker,White,Male,he/him,CS,low,low,low,low
+resume_02_English_HHHH.txt,2,Gregory Baker,White,Male,he/him,English,high,high,high,high
+resume_02_English_HHHL.txt,2,Gregory Baker,White,Male,he/him,English,high,high,high,low
+resume_02_English_HHLH.txt,2,Gregory Baker,White,Male,he/him,English,high,high,low,high
+resume_02_English_HHLL.txt,2,Gregory Baker,White,Male,he/him,English,high,high,low,low
+resume_02_English_HLHH.txt,2,Gregory Baker,White,Male,he/him,English,high,low,high,high
+resume_02_English_HLHL.txt,2,Gregory Baker,White,Male,he/him,English,high,low,high,low
+resume_02_English_HLLH.txt,2,Gregory Baker,White,Male,he/him,English,high,low,low,high
+resume_02_English_HLLL.txt,2,Gregory Baker,White,Male,he/him,English,high,low,low,low
+resume_02_English_LHHH.txt,2,Gregory Baker,White,Male,he/him,English,low,high,high,high
+resume_02_English_LHHL.txt,2,Gregory Baker,White,Male,he/him,English,low,high,high,low
+resume_02_English_LHLH.txt,2,Gregory Baker,White,Male,he/him,English,low,high,low,high
+resume_02_English_LHLL.txt,2,Gregory Baker,White,Male,he/him,English,low,high,low,low
+resume_02_English_LLHH.txt,2,Gregory Baker,White,Male,he/him,English,low,low,high,high
+resume_02_English_LLHL.txt,2,Gregory Baker,White,Male,he/him,English,low,low,high,low
+resume_02_English_LLLH.txt,2,Gregory Baker,White,Male,he/him,English,low,low,low,high
+resume_02_English_LLLL.txt,2,Gregory Baker,White,Male,he/him,English,low,low,low,low
+resume_03_CS_HHHH.txt,3,Riley Cooper,White,Nonbinary,they/them,CS,high,high,high,high
+resume_03_CS_HHHL.txt,3,Riley Cooper,White,Nonbinary,they/them,CS,high,high,high,low
+resume_03_CS_HHLH.txt,3,Riley Cooper,White,Nonbinary,they/them,CS,high,high,low,high
+resume_03_CS_HHLL.txt,3,Riley Cooper,White,Nonbinary,they/them,CS,high,high,low,low
+resume_03_CS_HLHH.txt,3,Riley Cooper,White,Nonbinary,they/them,CS,high,low,high,high
+resume_03_CS_HLHL.txt,3,Riley Cooper,White,Nonbinary,they/them,CS,high,low,high,low
+resume_03_CS_HLLH.txt,3,Riley Cooper,White,Nonbinary,they/them,CS,high,low,low,high
+resume_03_CS_HLLL.txt,3,Riley Cooper,White,Nonbinary,they/them,CS,high,low,low,low
+resume_03_CS_LHHH.txt,3,Riley Cooper,White,Nonbinary,they/them,CS,low,high,high,high
+resume_03_CS_LHHL.txt,3,Riley Cooper,White,Nonbinary,they/them,CS,low,high,high,low
+resume_03_CS_LHLH.txt,3,Riley Cooper,White,Nonbinary,they/them,CS,low,high,low,high
+resume_03_CS_LHLL.txt,3,Riley Cooper,White,Nonbinary,they/them,CS,low,high,low,low
+resume_03_CS_LLHH.txt,3,Riley Cooper,White,Nonbinary,they/them,CS,low,low,high,high
+resume_03_CS_LLHL.txt,3,Riley Cooper,White,Nonbinary,they/them,CS,low,low,high,low
+resume_03_CS_LLLH.txt,3,Riley Cooper,White,Nonbinary,they/them,CS,low,low,low,high
+resume_03_CS_LLLL.txt,3,Riley Cooper,White,Nonbinary,they/them,CS,low,low,low,low
+resume_03_English_HHHH.txt,3,Riley Cooper,White,Nonbinary,they/them,English,high,high,high,high
+resume_03_English_HHHL.txt,3,Riley Cooper,White,Nonbinary,they/them,English,high,high,high,low
+resume_03_English_HHLH.txt,3,Riley Cooper,White,Nonbinary,they/them,English,high,high,low,high
+resume_03_English_HHLL.txt,3,Riley Cooper,White,Nonbinary,they/them,English,high,high,low,low
+resume_03_English_HLHH.txt,3,Riley Cooper,White,Nonbinary,they/them,English,high,low,high,high
+resume_03_English_HLHL.txt,3,Riley Cooper,White,Nonbinary,they/them,English,high,low,high,low
+resume_03_English_HLLH.txt,3,Riley Cooper,White,Nonbinary,they/them,English,high,low,low,high
+resume_03_English_HLLL.txt,3,Riley Cooper,White,Nonbinary,they/them,English,high,low,low,low
+resume_03_English_LHHH.txt,3,Riley Cooper,White,Nonbinary,they/them,English,low,high,high,high
+resume_03_English_LHHL.txt,3,Riley Cooper,White,Nonbinary,they/them,English,low,high,high,low
+resume_03_English_LHLH.txt,3,Riley Cooper,White,Nonbinary,they/them,English,low,high,low,high
+resume_03_English_LHLL.txt,3,Riley Cooper,White,Nonbinary,they/them,English,low,high,low,low
+resume_03_English_LLHH.txt,3,Riley Cooper,White,Nonbinary,they/them,English,low,low,high,high
+resume_03_English_LLHL.txt,3,Riley Cooper,White,Nonbinary,they/them,English,low,low,high,low
+resume_03_English_LLLH.txt,3,Riley Cooper,White,Nonbinary,they/them,English,low,low,low,high
+resume_03_English_LLLL.txt,3,Riley Cooper,White,Nonbinary,they/them,English,low,low,low,low
+resume_04_CS_HHHH.txt,4,Lakisha Washington,Black,Female,she/her,CS,high,high,high,high
+resume_04_CS_HHHL.txt,4,Lakisha Washington,Black,Female,she/her,CS,high,high,high,low
+resume_04_CS_HHLH.txt,4,Lakisha Washington,Black,Female,she/her,CS,high,high,low,high
+resume_04_CS_HHLL.txt,4,Lakisha Washington,Black,Female,she/her,CS,high,high,low,low
+resume_04_CS_HLHH.txt,4,Lakisha Washington,Black,Female,she/her,CS,high,low,high,high
+resume_04_CS_HLHL.txt,4,Lakisha Washington,Black,Female,she/her,CS,high,low,high,low
+resume_04_CS_HLLH.txt,4,Lakisha Washington,Black,Female,she/her,CS,high,low,low,high
+resume_04_CS_HLLL.txt,4,Lakisha Washington,Black,Female,she/her,CS,high,low,low,low
+resume_04_CS_LHHH.txt,4,Lakisha Washington,Black,Female,she/her,CS,low,high,high,high
+resume_04_CS_LHHL.txt,4,Lakisha Washington,Black,Female,she/her,CS,low,high,high,low
+resume_04_CS_LHLH.txt,4,Lakisha Washington,Black,Female,she/her,CS,low,high,low,high
+resume_04_CS_LHLL.txt,4,Lakisha Washington,Black,Female,she/her,CS,low,high,low,low
+resume_04_CS_LLHH.txt,4,Lakisha Washington,Black,Female,she/her,CS,low,low,high,high
+resume_04_CS_LLHL.txt,4,Lakisha Washington,Black,Female,she/her,CS,low,low,high,low
+resume_04_CS_LLLH.txt,4,Lakisha Washington,Black,Female,she/her,CS,low,low,low,high
+resume_04_CS_LLLL.txt,4,Lakisha Washington,Black,Female,she/her,CS,low,low,low,low
+resume_04_English_HHHH.txt,4,Lakisha Washington,Black,Female,she/her,English,high,high,high,high
+resume_04_English_HHHL.txt,4,Lakisha Washington,Black,Female,she/her,English,high,high,high,low
+resume_04_English_HHLH.txt,4,Lakisha Washington,Black,Female,she/her,English,high,high,low,high
+resume_04_English_HHLL.txt,4,Lakisha Washington,Black,Female,she/her,English,high,high,low,low
+resume_04_English_HLHH.txt,4,Lakisha Washington,Black,Female,she/her,English,high,low,high,high
+resume_04_English_HLHL.txt,4,Lakisha Washington,Black,Female,she/her,English,high,low,high,low
+resume_04_English_HLLH.txt,4,Lakisha Washington,Black,Female,she/her,English,high,low,low,high
+resume_04_English_HLLL.txt,4,Lakisha Washington,Black,Female,she/her,English,high,low,low,low
+resume_04_English_LHHH.txt,4,Lakisha Washington,Black,Female,she/her,English,low,high,high,high
+resume_04_English_LHHL.txt,4,Lakisha Washington,Black,Female,she/her,English,low,high,high,low
+resume_04_English_LHLH.txt,4,Lakisha Washington,Black,Female,she/her,English,low,high,low,high
+resume_04_English_LHLL.txt,4,Lakisha Washington,Black,Female,she/her,English,low,high,low,low
+resume_04_English_LLHH.txt,4,Lakisha Washington,Black,Female,she/her,English,low,low,high,high
+resume_04_English_LLHL.txt,4,Lakisha Washington,Black,Female,she/her,English,low,low,high,low
+resume_04_English_LLLH.txt,4,Lakisha Washington,Black,Female,she/her,English,low,low,low,high
+resume_04_English_LLLL.txt,4,Lakisha Washington,Black,Female,she/her,English,low,low,low,low
+resume_05_CS_HHHH.txt,5,Jamal Jackson,Black,Male,he/him,CS,high,high,high,high
+resume_05_CS_HHHL.txt,5,Jamal Jackson,Black,Male,he/him,CS,high,high,high,low
+resume_05_CS_HHLH.txt,5,Jamal Jackson,Black,Male,he/him,CS,high,high,low,high
+resume_05_CS_HHLL.txt,5,Jamal Jackson,Black,Male,he/him,CS,high,high,low,low
+resume_05_CS_HLHH.txt,5,Jamal Jackson,Black,Male,he/him,CS,high,low,high,high
+resume_05_CS_HLHL.txt,5,Jamal Jackson,Black,Male,he/him,CS,high,low,high,low
+resume_05_CS_HLLH.txt,5,Jamal Jackson,Black,Male,he/him,CS,high,low,low,high
+resume_05_CS_HLLL.txt,5,Jamal Jackson,Black,Male,he/him,CS,high,low,low,low
+resume_05_CS_LHHH.txt,5,Jamal Jackson,Black,Male,he/him,CS,low,high,high,high
+resume_05_CS_LHHL.txt,5,Jamal Jackson,Black,Male,he/him,CS,low,high,high,low
+resume_05_CS_LHLH.txt,5,Jamal Jackson,Black,Male,he/him,CS,low,high,low,high
+resume_05_CS_LHLL.txt,5,Jamal Jackson,Black,Male,he/him,CS,low,high,low,low
+resume_05_CS_LLHH.txt,5,Jamal Jackson,Black,Male,he/him,CS,low,low,high,high
+resume_05_CS_LLHL.txt,5,Jamal Jackson,Black,Male,he/him,CS,low,low,high,low
+resume_05_CS_LLLH.txt,5,Jamal Jackson,Black,Male,he/him,CS,low,low,low,high
+resume_05_CS_LLLL.txt,5,Jamal Jackson,Black,Male,he/him,CS,low,low,low,low
+resume_05_English_HHHH.txt,5,Jamal Jackson,Black,Male,he/him,English,high,high,high,high
+resume_05_English_HHHL.txt,5,Jamal Jackson,Black,Male,he/him,English,high,high,high,low
+resume_05_English_HHLH.txt,5,Jamal Jackson,Black,Male,he/him,English,high,high,low,high
+resume_05_English_HHLL.txt,5,Jamal Jackson,Black,Male,he/him,English,high,high,low,low
+resume_05_English_HLHH.txt,5,Jamal Jackson,Black,Male,he/him,English,high,low,high,high
+resume_05_English_HLHL.txt,5,Jamal Jackson,Black,Male,he/him,English,high,low,high,low
+resume_05_English_HLLH.txt,5,Jamal Jackson,Black,Male,he/him,English,high,low,low,high
+resume_05_English_HLLL.txt,5,Jamal Jackson,Black,Male,he/him,English,high,low,low,low
+resume_05_English_LHHH.txt,5,Jamal Jackson,Black,Male,he/him,English,low,high,high,high
+resume_05_English_LHHL.txt,5,Jamal Jackson,Black,Male,he/him,English,low,high,high,low
+resume_05_English_LHLH.txt,5,Jamal Jackson,Black,Male,he/him,English,low,high,low,high
+resume_05_English_LHLL.txt,5,Jamal Jackson,Black,Male,he/him,English,low,high,low,low
+resume_05_English_LLHH.txt,5,Jamal Jackson,Black,Male,he/him,English,low,low,high,high
+resume_05_English_LLHL.txt,5,Jamal Jackson,Black,Male,he/him,English,low,low,high,low
+resume_05_English_LLLH.txt,5,Jamal Jackson,Black,Male,he/him,English,low,low,low,high
+resume_05_English_LLLL.txt,5,Jamal Jackson,Black,Male,he/him,English,low,low,low,low
+resume_06_CS_HHHH.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,CS,high,high,high,high
+resume_06_CS_HHHL.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,CS,high,high,high,low
+resume_06_CS_HHLH.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,CS,high,high,low,high
+resume_06_CS_HHLL.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,CS,high,high,low,low
+resume_06_CS_HLHH.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,CS,high,low,high,high
+resume_06_CS_HLHL.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,CS,high,low,high,low
+resume_06_CS_HLLH.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,CS,high,low,low,high
+resume_06_CS_HLLL.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,CS,high,low,low,low
+resume_06_CS_LHHH.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,CS,low,high,high,high
+resume_06_CS_LHHL.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,CS,low,high,high,low
+resume_06_CS_LHLH.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,CS,low,high,low,high
+resume_06_CS_LHLL.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,CS,low,high,low,low
+resume_06_CS_LLHH.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,CS,low,low,high,high
+resume_06_CS_LLHL.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,CS,low,low,high,low
+resume_06_CS_LLLH.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,CS,low,low,low,high
+resume_06_CS_LLLL.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,CS,low,low,low,low
+resume_06_English_HHHH.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,English,high,high,high,high
+resume_06_English_HHHL.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,English,high,high,high,low
+resume_06_English_HHLH.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,English,high,high,low,high
+resume_06_English_HHLL.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,English,high,high,low,low
+resume_06_English_HLHH.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,English,high,low,high,high
+resume_06_English_HLHL.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,English,high,low,high,low
+resume_06_English_HLLH.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,English,high,low,low,high
+resume_06_English_HLLL.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,English,high,low,low,low
+resume_06_English_LHHH.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,English,low,high,high,high
+resume_06_English_LHHL.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,English,low,high,high,low
+resume_06_English_LHLH.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,English,low,high,low,high
+resume_06_English_LHLL.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,English,low,high,low,low
+resume_06_English_LLHH.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,English,low,low,high,high
+resume_06_English_LLHL.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,English,low,low,high,low
+resume_06_English_LLLH.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,English,low,low,low,high
+resume_06_English_LLLL.txt,6,Jaylen Brooks,Black,Nonbinary,they/them,English,low,low,low,low
+resume_07_CS_HHHH.txt,7,Yuyan Chen,Asian,Female,she/her,CS,high,high,high,high
+resume_07_CS_HHHL.txt,7,Yuyan Chen,Asian,Female,she/her,CS,high,high,high,low
+resume_07_CS_HHLH.txt,7,Yuyan Chen,Asian,Female,she/her,CS,high,high,low,high
+resume_07_CS_HHLL.txt,7,Yuyan Chen,Asian,Female,she/her,CS,high,high,low,low
+resume_07_CS_HLHH.txt,7,Yuyan Chen,Asian,Female,she/her,CS,high,low,high,high
+resume_07_CS_HLHL.txt,7,Yuyan Chen,Asian,Female,she/her,CS,high,low,high,low
+resume_07_CS_HLLH.txt,7,Yuyan Chen,Asian,Female,she/her,CS,high,low,low,high
+resume_07_CS_HLLL.txt,7,Yuyan Chen,Asian,Female,she/her,CS,high,low,low,low
+resume_07_CS_LHHH.txt,7,Yuyan Chen,Asian,Female,she/her,CS,low,high,high,high
+resume_07_CS_LHHL.txt,7,Yuyan Chen,Asian,Female,she/her,CS,low,high,high,low
+resume_07_CS_LHLH.txt,7,Yuyan Chen,Asian,Female,she/her,CS,low,high,low,high
+resume_07_CS_LHLL.txt,7,Yuyan Chen,Asian,Female,she/her,CS,low,high,low,low
+resume_07_CS_LLHH.txt,7,Yuyan Chen,Asian,Female,she/her,CS,low,low,high,high
+resume_07_CS_LLHL.txt,7,Yuyan Chen,Asian,Female,she/her,CS,low,low,high,low
+resume_07_CS_LLLH.txt,7,Yuyan Chen,Asian,Female,she/her,CS,low,low,low,high
+resume_07_CS_LLLL.txt,7,Yuyan Chen,Asian,Female,she/her,CS,low,low,low,low
+resume_07_English_HHHH.txt,7,Yuyan Chen,Asian,Female,she/her,English,high,high,high,high
+resume_07_English_HHHL.txt,7,Yuyan Chen,Asian,Female,she/her,English,high,high,high,low
+resume_07_English_HHLH.txt,7,Yuyan Chen,Asian,Female,she/her,English,high,high,low,high
+resume_07_English_HHLL.txt,7,Yuyan Chen,Asian,Female,she/her,English,high,high,low,low
+resume_07_English_HLHH.txt,7,Yuyan Chen,Asian,Female,she/her,English,high,low,high,high
+resume_07_English_HLHL.txt,7,Yuyan Chen,Asian,Female,she/her,English,high,low,high,low
+resume_07_English_HLLH.txt,7,Yuyan Chen,Asian,Female,she/her,English,high,low,low,high
+resume_07_English_HLLL.txt,7,Yuyan Chen,Asian,Female,she/her,English,high,low,low,low
+resume_07_English_LHHH.txt,7,Yuyan Chen,Asian,Female,she/her,English,low,high,high,high
+resume_07_English_LHHL.txt,7,Yuyan Chen,Asian,Female,she/her,English,low,high,high,low
+resume_07_English_LHLH.txt,7,Yuyan Chen,Asian,Female,she/her,English,low,high,low,high
+resume_07_English_LHLL.txt,7,Yuyan Chen,Asian,Female,she/her,English,low,high,low,low
+resume_07_English_LLHH.txt,7,Yuyan Chen,Asian,Female,she/her,English,low,low,high,high
+resume_07_English_LLHL.txt,7,Yuyan Chen,Asian,Female,she/her,English,low,low,high,low
+resume_07_English_LLLH.txt,7,Yuyan Chen,Asian,Female,she/her,English,low,low,low,high
+resume_07_English_LLLL.txt,7,Yuyan Chen,Asian,Female,she/her,English,low,low,low,low
+resume_08_CS_HHHH.txt,8,Vihaan Singh,Asian,Male,he/him,CS,high,high,high,high
+resume_08_CS_HHHL.txt,8,Vihaan Singh,Asian,Male,he/him,CS,high,high,high,low
+resume_08_CS_HHLH.txt,8,Vihaan Singh,Asian,Male,he/him,CS,high,high,low,high
+resume_08_CS_HHLL.txt,8,Vihaan Singh,Asian,Male,he/him,CS,high,high,low,low
+resume_08_CS_HLHH.txt,8,Vihaan Singh,Asian,Male,he/him,CS,high,low,high,high
+resume_08_CS_HLHL.txt,8,Vihaan Singh,Asian,Male,he/him,CS,high,low,high,low
+resume_08_CS_HLLH.txt,8,Vihaan Singh,Asian,Male,he/him,CS,high,low,low,high
+resume_08_CS_HLLL.txt,8,Vihaan Singh,Asian,Male,he/him,CS,high,low,low,low
+resume_08_CS_LHHH.txt,8,Vihaan Singh,Asian,Male,he/him,CS,low,high,high,high
+resume_08_CS_LHHL.txt,8,Vihaan Singh,Asian,Male,he/him,CS,low,high,high,low
+resume_08_CS_LHLH.txt,8,Vihaan Singh,Asian,Male,he/him,CS,low,high,low,high
+resume_08_CS_LHLL.txt,8,Vihaan Singh,Asian,Male,he/him,CS,low,high,low,low
+resume_08_CS_LLHH.txt,8,Vihaan Singh,Asian,Male,he/him,CS,low,low,high,high
+resume_08_CS_LLHL.txt,8,Vihaan Singh,Asian,Male,he/him,CS,low,low,high,low
+resume_08_CS_LLLH.txt,8,Vihaan Singh,Asian,Male,he/him,CS,low,low,low,high
+resume_08_CS_LLLL.txt,8,Vihaan Singh,Asian,Male,he/him,CS,low,low,low,low
+resume_08_English_HHHH.txt,8,Vihaan Singh,Asian,Male,he/him,English,high,high,high,high
+resume_08_English_HHHL.txt,8,Vihaan Singh,Asian,Male,he/him,English,high,high,high,low
+resume_08_English_HHLH.txt,8,Vihaan Singh,Asian,Male,he/him,English,high,high,low,high
+resume_08_English_HHLL.txt,8,Vihaan Singh,Asian,Male,he/him,English,high,high,low,low
+resume_08_English_HLHH.txt,8,Vihaan Singh,Asian,Male,he/him,English,high,low,high,high
+resume_08_English_HLHL.txt,8,Vihaan Singh,Asian,Male,he/him,English,high,low,high,low
+resume_08_English_HLLH.txt,8,Vihaan Singh,Asian,Male,he/him,English,high,low,low,high
+resume_08_English_HLLL.txt,8,Vihaan Singh,Asian,Male,he/him,English,high,low,low,low
+resume_08_English_LHHH.txt,8,Vihaan Singh,Asian,Male,he/him,English,low,high,high,high
+resume_08_English_LHHL.txt,8,Vihaan Singh,Asian,Male,he/him,English,low,high,high,low
+resume_08_English_LHLH.txt,8,Vihaan Singh,Asian,Male,he/him,English,low,high,low,high
+resume_08_English_LHLL.txt,8,Vihaan Singh,Asian,Male,he/him,English,low,high,low,low
+resume_08_English_LLHH.txt,8,Vihaan Singh,Asian,Male,he/him,English,low,low,high,high
+resume_08_English_LLHL.txt,8,Vihaan Singh,Asian,Male,he/him,English,low,low,high,low
+resume_08_English_LLLH.txt,8,Vihaan Singh,Asian,Male,he/him,English,low,low,low,high
+resume_08_English_LLLL.txt,8,Vihaan Singh,Asian,Male,he/him,English,low,low,low,low
+resume_09_CS_HHHH.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,CS,high,high,high,high
+resume_09_CS_HHHL.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,CS,high,high,high,low
+resume_09_CS_HHLH.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,CS,high,high,low,high
+resume_09_CS_HHLL.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,CS,high,high,low,low
+resume_09_CS_HLHH.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,CS,high,low,high,high
+resume_09_CS_HLHL.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,CS,high,low,high,low
+resume_09_CS_HLLH.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,CS,high,low,low,high
+resume_09_CS_HLLL.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,CS,high,low,low,low
+resume_09_CS_LHHH.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,CS,low,high,high,high
+resume_09_CS_LHHL.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,CS,low,high,high,low
+resume_09_CS_LHLH.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,CS,low,high,low,high
+resume_09_CS_LHLL.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,CS,low,high,low,low
+resume_09_CS_LLHH.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,CS,low,low,high,high
+resume_09_CS_LLHL.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,CS,low,low,high,low
+resume_09_CS_LLLH.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,CS,low,low,low,high
+resume_09_CS_LLLL.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,CS,low,low,low,low
+resume_09_English_HHHH.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,English,high,high,high,high
+resume_09_English_HHHL.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,English,high,high,high,low
+resume_09_English_HHLH.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,English,high,high,low,high
+resume_09_English_HHLL.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,English,high,high,low,low
+resume_09_English_HLHH.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,English,high,low,high,high
+resume_09_English_HLHL.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,English,high,low,high,low
+resume_09_English_HLLH.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,English,high,low,low,high
+resume_09_English_HLLL.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,English,high,low,low,low
+resume_09_English_LHHH.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,English,low,high,high,high
+resume_09_English_LHHL.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,English,low,high,high,low
+resume_09_English_LHLH.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,English,low,high,low,high
+resume_09_English_LHLL.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,English,low,high,low,low
+resume_09_English_LLHH.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,English,low,low,high,high
+resume_09_English_LLHL.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,English,low,low,high,low
+resume_09_English_LLLH.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,English,low,low,low,high
+resume_09_English_LLLL.txt,9,Yuki Tanaka,Asian,Nonbinary,they/them,English,low,low,low,low
+resume_10_CS_HHHH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,CS,high,high,high,high
+resume_10_CS_HHHL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,CS,high,high,high,low
+resume_10_CS_HHLH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,CS,high,high,low,high
+resume_10_CS_HHLL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,CS,high,high,low,low
+resume_10_CS_HLHH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,CS,high,low,high,high
+resume_10_CS_HLHL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,CS,high,low,high,low
+resume_10_CS_HLLH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,CS,high,low,low,high
+resume_10_CS_HLLL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,CS,high,low,low,low
+resume_10_CS_LHHH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,CS,low,high,high,high
+resume_10_CS_LHHL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,CS,low,high,high,low
+resume_10_CS_LHLH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,CS,low,high,low,high
+resume_10_CS_LHLL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,CS,low,high,low,low
+resume_10_CS_LLHH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,CS,low,low,high,high
+resume_10_CS_LLHL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,CS,low,low,high,low
+resume_10_CS_LLLH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,CS,low,low,low,high
+resume_10_CS_LLLL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,CS,low,low,low,low
+resume_10_English_HHHH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,English,high,high,high,high
+resume_10_English_HHHL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,English,high,high,high,low
+resume_10_English_HHLH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,English,high,high,low,high
+resume_10_English_HHLL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,English,high,high,low,low
+resume_10_English_HLHH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,English,high,low,high,high
+resume_10_English_HLHL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,English,high,low,high,low
+resume_10_English_HLLH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,English,high,low,low,high
+resume_10_English_HLLL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,English,high,low,low,low
+resume_10_English_LHHH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,English,low,high,high,high
+resume_10_English_LHHL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,English,low,high,high,low
+resume_10_English_LHLH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,English,low,high,low,high
+resume_10_English_LHLL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,English,low,high,low,low
+resume_10_English_LLHH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,English,low,low,high,high
+resume_10_English_LLHL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,English,low,low,high,low
+resume_10_English_LLLH.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,English,low,low,low,high
+resume_10_English_LLLL.txt,10,Malia Kahale,Hawaiian/Pacific Islander,Female,she/her,English,low,low,low,low
+resume_11_CS_HHHH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,CS,high,high,high,high
+resume_11_CS_HHHL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,CS,high,high,high,low
+resume_11_CS_HHLH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,CS,high,high,low,high
+resume_11_CS_HHLL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,CS,high,high,low,low
+resume_11_CS_HLHH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,CS,high,low,high,high
+resume_11_CS_HLHL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,CS,high,low,high,low
+resume_11_CS_HLLH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,CS,high,low,low,high
+resume_11_CS_HLLL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,CS,high,low,low,low
+resume_11_CS_LHHH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,CS,low,high,high,high
+resume_11_CS_LHHL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,CS,low,high,high,low
+resume_11_CS_LHLH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,CS,low,high,low,high
+resume_11_CS_LHLL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,CS,low,high,low,low
+resume_11_CS_LLHH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,CS,low,low,high,high
+resume_11_CS_LLHL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,CS,low,low,high,low
+resume_11_CS_LLLH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,CS,low,low,low,high
+resume_11_CS_LLLL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,CS,low,low,low,low
+resume_11_English_HHHH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,English,high,high,high,high
+resume_11_English_HHHL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,English,high,high,high,low
+resume_11_English_HHLH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,English,high,high,low,high
+resume_11_English_HHLL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,English,high,high,low,low
+resume_11_English_HLHH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,English,high,low,high,high
+resume_11_English_HLHL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,English,high,low,high,low
+resume_11_English_HLLH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,English,high,low,low,high
+resume_11_English_HLLL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,English,high,low,low,low
+resume_11_English_LHHH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,English,low,high,high,high
+resume_11_English_LHHL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,English,low,high,high,low
+resume_11_English_LHLH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,English,low,high,low,high
+resume_11_English_LHLL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,English,low,high,low,low
+resume_11_English_LLHH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,English,low,low,high,high
+resume_11_English_LLHL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,English,low,low,high,low
+resume_11_English_LLLH.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,English,low,low,low,high
+resume_11_English_LLLL.txt,11,Kekoa Manu,Hawaiian/Pacific Islander,Male,he/him,English,low,low,low,low
+resume_12_CS_HHHH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,CS,high,high,high,high
+resume_12_CS_HHHL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,CS,high,high,high,low
+resume_12_CS_HHLH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,CS,high,high,low,high
+resume_12_CS_HHLL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,CS,high,high,low,low
+resume_12_CS_HLHH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,CS,high,low,high,high
+resume_12_CS_HLHL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,CS,high,low,high,low
+resume_12_CS_HLLH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,CS,high,low,low,high
+resume_12_CS_HLLL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,CS,high,low,low,low
+resume_12_CS_LHHH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,CS,low,high,high,high
+resume_12_CS_LHHL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,CS,low,high,high,low
+resume_12_CS_LHLH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,CS,low,high,low,high
+resume_12_CS_LHLL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,CS,low,high,low,low
+resume_12_CS_LLHH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,CS,low,low,high,high
+resume_12_CS_LLHL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,CS,low,low,high,low
+resume_12_CS_LLLH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,CS,low,low,low,high
+resume_12_CS_LLLL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,CS,low,low,low,low
+resume_12_English_HHHH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,English,high,high,high,high
+resume_12_English_HHHL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,English,high,high,high,low
+resume_12_English_HHLH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,English,high,high,low,high
+resume_12_English_HHLL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,English,high,high,low,low
+resume_12_English_HLHH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,English,high,low,high,high
+resume_12_English_HLHL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,English,high,low,high,low
+resume_12_English_HLLH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,English,high,low,low,high
+resume_12_English_HLLL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,English,high,low,low,low
+resume_12_English_LHHH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,English,low,high,high,high
+resume_12_English_LHHL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,English,low,high,high,low
+resume_12_English_LHLH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,English,low,high,low,high
+resume_12_English_LHLL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,English,low,high,low,low
+resume_12_English_LLHH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,English,low,low,high,high
+resume_12_English_LLHL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,English,low,low,high,low
+resume_12_English_LLLH.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,English,low,low,low,high
+resume_12_English_LLLL.txt,12,Kai Akana,Hawaiian/Pacific Islander,Nonbinary,they/them,English,low,low,low,low
+resume_13_CS_HHHH.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,CS,high,high,high,high
+resume_13_CS_HHHL.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,CS,high,high,high,low
+resume_13_CS_HHLH.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,CS,high,high,low,high
+resume_13_CS_HHLL.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,CS,high,high,low,low
+resume_13_CS_HLHH.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,CS,high,low,high,high
+resume_13_CS_HLHL.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,CS,high,low,high,low
+resume_13_CS_HLLH.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,CS,high,low,low,high
+resume_13_CS_HLLL.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,CS,high,low,low,low
+resume_13_CS_LHHH.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,CS,low,high,high,high
+resume_13_CS_LHHL.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,CS,low,high,high,low
+resume_13_CS_LHLH.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,CS,low,high,low,high
+resume_13_CS_LHLL.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,CS,low,high,low,low
+resume_13_CS_LLHH.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,CS,low,low,high,high
+resume_13_CS_LLHL.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,CS,low,low,high,low
+resume_13_CS_LLLH.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,CS,low,low,low,high
+resume_13_CS_LLLL.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,CS,low,low,low,low
+resume_13_English_HHHH.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,English,high,high,high,high
+resume_13_English_HHHL.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,English,high,high,high,low
+resume_13_English_HHLH.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,English,high,high,low,high
+resume_13_English_HHLL.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,English,high,high,low,low
+resume_13_English_HLHH.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,English,high,low,high,high
+resume_13_English_HLHL.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,English,high,low,high,low
+resume_13_English_HLLH.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,English,high,low,low,high
+resume_13_English_HLLL.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,English,high,low,low,low
+resume_13_English_LHHH.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,English,low,high,high,high
+resume_13_English_LHHL.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,English,low,high,high,low
+resume_13_English_LHLH.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,English,low,high,low,high
+resume_13_English_LHLL.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,English,low,high,low,low
+resume_13_English_LLHH.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,English,low,low,high,high
+resume_13_English_LLHL.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,English,low,low,high,low
+resume_13_English_LLLH.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,English,low,low,low,high
+resume_13_English_LLLL.txt,13,Maria Garcia,Hispanic/Latinx,Female,she/her,English,low,low,low,low
+resume_14_CS_HHHH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,CS,high,high,high,high
+resume_14_CS_HHHL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,CS,high,high,high,low
+resume_14_CS_HHLH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,CS,high,high,low,high
+resume_14_CS_HHLL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,CS,high,high,low,low
+resume_14_CS_HLHH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,CS,high,low,high,high
+resume_14_CS_HLHL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,CS,high,low,high,low
+resume_14_CS_HLLH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,CS,high,low,low,high
+resume_14_CS_HLLL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,CS,high,low,low,low
+resume_14_CS_LHHH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,CS,low,high,high,high
+resume_14_CS_LHHL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,CS,low,high,high,low
+resume_14_CS_LHLH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,CS,low,high,low,high
+resume_14_CS_LHLL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,CS,low,high,low,low
+resume_14_CS_LLHH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,CS,low,low,high,high
+resume_14_CS_LLHL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,CS,low,low,high,low
+resume_14_CS_LLLH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,CS,low,low,low,high
+resume_14_CS_LLLL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,CS,low,low,low,low
+resume_14_English_HHHH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,English,high,high,high,high
+resume_14_English_HHHL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,English,high,high,high,low
+resume_14_English_HHLH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,English,high,high,low,high
+resume_14_English_HHLL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,English,high,high,low,low
+resume_14_English_HLHH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,English,high,low,high,high
+resume_14_English_HLHL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,English,high,low,high,low
+resume_14_English_HLLH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,English,high,low,low,high
+resume_14_English_HLLL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,English,high,low,low,low
+resume_14_English_LHHH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,English,low,high,high,high
+resume_14_English_LHHL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,English,low,high,high,low
+resume_14_English_LHLH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,English,low,high,low,high
+resume_14_English_LHLL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,English,low,high,low,low
+resume_14_English_LLHH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,English,low,low,high,high
+resume_14_English_LLHL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,English,low,low,high,low
+resume_14_English_LLLH.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,English,low,low,low,high
+resume_14_English_LLLL.txt,14,Carlos Rodriguez,Hispanic/Latinx,Male,he/him,English,low,low,low,low
+resume_15_CS_HHHH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,CS,high,high,high,high
+resume_15_CS_HHHL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,CS,high,high,high,low
+resume_15_CS_HHLH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,CS,high,high,low,high
+resume_15_CS_HHLL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,CS,high,high,low,low
+resume_15_CS_HLHH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,CS,high,low,high,high
+resume_15_CS_HLHL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,CS,high,low,high,low
+resume_15_CS_HLLH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,CS,high,low,low,high
+resume_15_CS_HLLL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,CS,high,low,low,low
+resume_15_CS_LHHH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,CS,low,high,high,high
+resume_15_CS_LHHL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,CS,low,high,high,low
+resume_15_CS_LHLH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,CS,low,high,low,high
+resume_15_CS_LHLL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,CS,low,high,low,low
+resume_15_CS_LLHH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,CS,low,low,high,high
+resume_15_CS_LLHL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,CS,low,low,high,low
+resume_15_CS_LLLH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,CS,low,low,low,high
+resume_15_CS_LLLL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,CS,low,low,low,low
+resume_15_English_HHHH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,English,high,high,high,high
+resume_15_English_HHHL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,English,high,high,high,low
+resume_15_English_HHLH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,English,high,high,low,high
+resume_15_English_HHLL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,English,high,high,low,low
+resume_15_English_HLHH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,English,high,low,high,high
+resume_15_English_HLHL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,English,high,low,high,low
+resume_15_English_HLLH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,English,high,low,low,high
+resume_15_English_HLLL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,English,high,low,low,low
+resume_15_English_LHHH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,English,low,high,high,high
+resume_15_English_LHHL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,English,low,high,high,low
+resume_15_English_LHLH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,English,low,high,low,high
+resume_15_English_LHLL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,English,low,high,low,low
+resume_15_English_LLHH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,English,low,low,high,high
+resume_15_English_LLHL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,English,low,low,high,low
+resume_15_English_LLLH.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,English,low,low,low,high
+resume_15_English_LLLL.txt,15,Ariel Morales,Hispanic/Latinx,Nonbinary,they/them,English,low,low,low,low
