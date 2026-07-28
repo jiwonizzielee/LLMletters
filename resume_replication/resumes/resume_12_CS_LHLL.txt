@@ -10,10 +10,6 @@ Coursework: AP Computer Science Principles, Honors Algebra II, Standard English
 
 Leadership: Member, Coding Club (no officer role)
 
-Research Experience: None
-
-Internship: None
-
 Projects: Simple Calculator App — JavaScript class project
 
 Community Service: 180 hours over 3 years; founded and led a weekly peer-tutoring program for underserved middle schoolers; volunteer shift lead, local food bank

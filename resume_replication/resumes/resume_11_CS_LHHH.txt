@@ -10,10 +10,6 @@ Coursework: AP Computer Science A, AP Calculus BC, AP Physics C: Mechanics, Hono
 
 Leadership: President, Coding Club; Founder, School Hackathon Team
 
-Research Experience: None
-
-Internship: None
-
 Projects: Built and launched a full-stack web application (500+ active users) using React and Node.js; led a 4-person team to a 2nd-place finish at the State Hackathon
 
 Community Service: 180 hours over 3 years; founded and led a weekly peer-tutoring program for underserved middle schoolers; volunteer shift lead, local food bank

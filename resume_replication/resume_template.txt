@@ -10,10 +10,6 @@ Coursework: {coursework}
 
 Leadership: {leadership}
 
-Research Experience: {research}
-
-Internship: {internship}
-
 Projects: {projects}
 
 Community Service: {community_service}

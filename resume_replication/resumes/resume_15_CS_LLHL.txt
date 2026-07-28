@@ -10,10 +10,6 @@ Coursework: AP Computer Science A, AP Calculus BC, AP Physics C: Mechanics, Hono
 
 Leadership: Member, Coding Club (no officer role)
 
-Research Experience: None
-
-Internship: None
-
 Projects: Simple Calculator App — JavaScript class project
 
 Community Service: 15 hours, occasional food drive assistance

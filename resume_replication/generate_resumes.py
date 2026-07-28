@@ -39,8 +39,6 @@ def build_fields(name_row, major, quant, volunteer, rigor, ec):
         "pronouns": PRONOUNS[name_row["gender_identity"]],
         "major_label": cb.MAJOR_LABELS[major],
         "high_school": cb.HIGH_SCHOOL,
-        "research": cb.RESEARCH,
-        "internship": cb.INTERNSHIP,
     }
     fields.update(cb.QUANT[quant])
     fields.update(cb.VOLUNTEER[volunteer])

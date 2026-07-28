@@ -111,6 +111,3 @@ EC = {
         },
     },
 }
-
-RESEARCH = "None"
-INTERNSHIP = "None"
