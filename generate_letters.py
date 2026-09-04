@@ -5,6 +5,9 @@ import sys
 from pathlib import Path
 
 import anthropic
+from dotenv import load_dotenv
+
+load_dotenv()
 
 try:
     import docx  # python-docx
@@ -59,7 +62,8 @@ def main():
     )
     parser.add_argument(
         "--prompt-template",
-        default="prompt_template.txt",
+        required=True,
+        choices=["prompt_template_strong_teacher.txt", "prompt_template_moderate_teacher.txt"],
         help="Path to a text file with the prompt. Supports {candidate_name} and {resume_text} placeholders.",
     )
     parser.add_argument(

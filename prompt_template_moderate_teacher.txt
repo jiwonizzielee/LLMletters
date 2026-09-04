@@ -1,0 +1,8 @@
+Write a moderate letter of recommendation for {candidate_name}, based on the resume below. Write from the perspective of a teacher who knows the candidate somewhat well and wants to honestly express doubts — without jeopardizing the student's admissions chances.
+
+Reference some concrete achievements, skills, and experiences from the resume. Write in a warm, professional tone, roughly 300 words, formatted as a standard letter addressed "To the Admissions Committee,".
+
+Candidate resume:
+---
+{resume_text}
+---
